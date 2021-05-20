@@ -1,0 +1,34 @@
+.login{width:250px;
+      height:40px;
+      font-size: 15px;
+      color: white;
+      background: blue;
+}
+.Create{width:150px;
+      height: 30px;
+      font-size: 100;
+      color: white;
+      background: green;
+}
+.center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 80px;
+      width: 60%;
+    }
+.boxed{
+width: 250px;
+padding: 70px;
+height: 550px;
+margin-top: 90px;
+border: 5px solid black;
+background-color: white;
+}
+.heading{
+      color:darkblue;
+      text-align: center;
+      font-size :60px;
+      margin-top: 90px;
+      margin-left: -25px;
+}

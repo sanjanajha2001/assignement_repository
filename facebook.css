@@ -1,0 +1,100 @@
+*/css documents/
+ body
+{
+    padding: 0px;
+    margin:0px;
+    font-size:17px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box
+{
+    background-color: rgb(245, 241, 241);
+    margin:auto;
+    height: 400px;
+    min-height: auto;
+    margin-top: 0px;
+
+}
+.head
+{
+    width:100%;
+    float: left;
+    min-height: 40px;
+    height: auto;
+    background-color:blue;
+}
+
+.head-wraper
+{
+    width: 1170px;
+    margin: 0px auto;
+}
+.h1 
+{
+    padding:0px;
+    margin:0px;
+    font-size:30px;
+    color:darkblue;
+    text-align:center!important;
+    font-weight:bold;
+}
+input{
+    width:550px;
+    padding: 0px 0px;
+    margin: 0px 300px;
+    float: initial;
+}
+.Login-button
+{
+    padding:0px 0px;
+    margin:0px 0px;
+    float: initial;
+    
+}
+.Login-button input
+{
+    padding:9px 0px;
+    margin:0px 630px;
+    background-color:darkblue;
+    color:white;
+    font-size:22px;
+    text-align:center;
+    font-weight:bold;
+    width:30%;
+    float: initial;
+}
+.Login-button p
+{   
+    padding:0px;
+    margin:0px;
+    color:black;
+    text-align:center;
+}
+
+.creatnewaccount-button
+{
+    padding:0px 0px;
+    margin:0px 0px;
+    
+}
+.creatnewaccount-button input
+{
+    padding:9px 0px;
+    margin:0px 780px;
+    background-color:rgb(7, 107, 7);
+    color:white;
+    font-size:18px;
+    text-align:center;
+    font-weight:bold;
+    width:15%;
+}
+.creatnewaccount-button p
+{
+    padding:0px 0px;
+    margin:0px 0px;
+    text-align:center;
+    font-size:17px;
+    color:blue;
+}
